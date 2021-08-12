@@ -9,7 +9,7 @@ namespace Arrays_og_lidt_matematik
         {
             List<int> numbers = new List<int> { 2, 4, 6, 8, 10, 12, 14, 16, 18 };
 
-            
+            int i = 7;
         }
     }
 }
